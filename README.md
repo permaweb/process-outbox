@@ -9,13 +9,13 @@ notifications to subscribers registered by action and target.
 ## published package
 
 ```bash
-device publish: process-outbox@1.0 
+Published device: process-outbox@1.0; 
 
-spec=Oi9kpETC0JcNgb38Fn8W-lcRNXlp1USfcy2dHw3cmQ0 
+Specification ID: iVu-4BJxuR8h-FNmYv3ycVV9Y18lfCpgPea6iNt9unc; 
 
-impl=HOcPV7wxMHYb3rSQ3EfykQhHx_b8waRWhXolhcBNgHo 
+Implementation ID: BmBut-zW00154C4deJSkwCbr8FTTv4Oj4SzYnNhLL4c; 
 
-signer=vZY2XY1RD9HIfWi8ift-1_DnHLDadZMWrufSh-_rKF0
+Signer: vZY2XY1RD9HIfWi8ift-1_DnHLDadZMWrufSh-_rKF0.
 ```
 
 ## build
